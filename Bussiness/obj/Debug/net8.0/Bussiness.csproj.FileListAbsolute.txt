@@ -1,0 +1,15 @@
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/bin/Debug/net8.0/Bussiness.deps.json
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/bin/Debug/net8.0/Bussiness.dll
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/bin/Debug/net8.0/Bussiness.pdb
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/Bussiness.AssemblyInfoInputs.cache
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/Bussiness.AssemblyInfo.cs
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/Bussiness.csproj.CoreCompileInputs.cache
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/Bussiness.dll
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/refint/Bussiness.dll
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/Bussiness.pdb
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/ref/Bussiness.dll
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/bin/Debug/net8.0/DataAccess.dll
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/bin/Debug/net8.0/DataAccess.pdb
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/Bussiness.csproj.AssemblyReference.cache
+/home/sanskar-jaiswal/Work/DockerApplication/dotnetapp/Bussiness/obj/Debug/net8.0/Bussiness.csproj.CopyComplete
